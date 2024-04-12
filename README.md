@@ -15,7 +15,7 @@ This project consists of an interactive web application for early diabetes detec
 1. Clone this repository.
 2.  Install dependencies: pip install -r requirements.txt.
 3.  Download the dataset from [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset).
-4.  Prepare/Visualize and train the model by running: Early_Diabetes_Detection.ipynb
+4.  Execute the cells of Early_Diabetes_Detection.ipynb sequentially to reproduce the analysis and train the model.
 5.  Run the application: shiny run --reload app.py
 6.  Access the application in your web browser at: http://127.0.0.1:8000
 
